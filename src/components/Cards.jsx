@@ -17,7 +17,7 @@ function Cards() {
             />
             <CardItem
               src="images/img-8.jpg"
-              text="Explore the hidden desert deep inside Africa"
+              text="Explore the not so hidden desert inside Africa"
               label="Adventure"
               path="/services"
             />
